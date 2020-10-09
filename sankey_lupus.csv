@@ -1,0 +1,140 @@
+source,target,value
+1st line: HCQ,2nd line: Q,1
+1st line: HCQ,2nd line: Q,1
+1st line: HCQ,2nd line: Q,1
+1st line: HCQ,2nd line: Q,1
+1st line: HCQ,2nd line: Q,1
+1st line: HCQ,2nd line: Q,1
+1st line: HCQ,2nd line: HCQ and MTX,1
+1st line: HCQ,2nd line: HCQ and MTX,1
+1st line: HCQ,2nd line: HCQ and MTX,1
+1st line: HCQ,2nd line: HCQ and MTX,1
+1st line: HCQ and TPO-RA,"2nd line: HCQ, MMF and TPO-RA",1
+1st line: HCQ and TPO-RA,"2nd line: HCQ, MMF and TPO-RA",1
+1st line: HCQ and TPO-RA,"2nd line: HCQ, MMF and TPO-RA",1
+1st line: HCQ and TPO-RA,"2nd line: HCQ, MMF and TPO-RA",1
+1st line: HCQ and TPO-RA,"2nd line: HCQ, MMF and TPO-RA",1
+1st line: HCQ and TPO-RA,"2nd line: HCQ, MMF and TPO-RA",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP and AZA",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP and AZA",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP and AZA",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP and AZA",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP and AZA",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP and AZA",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP and AZA",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP and AZA",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP, MTX",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP, MTX",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP, MTX",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP, MTX",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP, MTX",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP, MTX",1
+2nd line: HCQ and MTX,"3rd line: HCQ, IV-MP, MTX",1
+2nd line: HCQ and AZA,3rd line: HCQ and MTX,1
+2nd line: HCQ and AZA,3rd line: HCQ and MTX,1
+2nd line: HCQ and AZA,3rd line: HCQ and MTX,1
+2nd line: HCQ and AZA,"3rd line: HCQ, AZA and Belimumab",1
+2nd line: HCQ and AZA,"3rd line: HCQ, AZA and Belimumab",1
+2nd line: HCQ and AZA,"3rd line: HCQ, AZA and Belimumab",1
+2nd line: HCQ and AZA,"3rd line: HCQ, AZA and Belimumab",1
+2nd line: HCQ and AZA,"3rd line: HCQ, AZA and Belimumab",1
+2nd line: HCQ and AZA,"3rd line: HCQ, AZA and Belimumab",1
+2nd line: HCQ and MTX,3rd line: HCQ and AZA,1
+2nd line: HCQ and MTX,3rd line: HCQ and AZA,1
+2nd line: HCQ and MTX,3rd line: HCQ and AZA,1
+2nd line: HCQ and MTX,3rd line: HCQ and AZA,1
+2nd line: HCQ and MTX,3rd line: HCQ and AZA,1
+2nd line: HCQ and MTX,3rd line: HCQ and AZA,1
+2nd line: HCQ and MTX,3rd line: HCQ and AZA,1
+2nd line: HCQ and MTX,3rd line: HCQ and AZA,1
+"2nd line: HCQ, IV-MP, MTX and Belimumab","3rd line: HCQ, IV-MP and Belimumab",1
+"2nd line: HCQ, IV-MP, MTX and Belimumab","3rd line: HCQ, IV-MP and Belimumab",1
+"2nd line: HCQ, IV-MP, MTX and Belimumab","3rd line: HCQ, IV-MP and Belimumab",1
+"2nd line: HCQ, IV-MP, MTX and Belimumab","3rd line: HCQ, IV-MP and Belimumab",1
+"2nd line: HCQ, IV-MP, MTX and Belimumab","3rd line: HCQ, IV-MP and Belimumab",1
+"2nd line: HCQ, IV-MP, MTX and Belimumab","3rd line: HCQ, IV-MP and Belimumab",1
+"2nd line: HCQ, IV-MP, MTX and Belimumab","3rd line: HCQ, IV-MP and Belimumab",1
+"2nd line: HCQ, IV-MP, MTX and Belimumab","3rd line: HCQ, IV-MP and Belimumab",1
+"2nd line: HCQ, IV-MP, MTX and Belimumab","3rd line: HCQ, IV-MP and Belimumab",1
+"2nd line: HCQ, IV-MP, MTX and Belimumab","3rd line: HCQ, IV-MP and Belimumab",1
+"2nd line: HCQ, MMF and TPO-RA","3rd line: HCQ, AZA and Cyclosporine",1
+"2nd line: HCQ, MMF and TPO-RA","3rd line: HCQ, AZA and Cyclosporine",1
+"2nd line: HCQ, MMF and TPO-RA","3rd line: HCQ, AZA and Cyclosporine",1
+"2nd line: HCQ, MMF and TPO-RA","3rd line: HCQ, AZA and Cyclosporine",1
+"2nd line: HCQ, MTX and AZA","3rd line: HCQ, IV-MP and AZA",1
+"2nd line: HCQ, MTX and AZA","3rd line: HCQ, IV-MP and AZA",1
+"2nd line: HCQ, MTX and AZA","3rd line: HCQ, IV-MP and AZA",1
+"2nd line: HCQ, MTX and AZA","3rd line: HCQ, IV-MP and AZA",1
+"2nd line: HCQ, MTX and AZA","3rd line: HCQ, IV-MP and AZA",1
+"2nd line: HCQ, MTX and AZA","3rd line: HCQ, IV-MP and AZA",1
+"2nd line: HCQ, MTX and AZA","3rd line: HCQ, IV-MP and AZA",1
+"2nd line: HCQ, MTX and AZA","3rd line: HCQ, IV-MP and AZA",1
+"2nd line: HCQ, MTX and AZA","3rd line: HCQ, IV-MP and AZA",1
+"2nd line: HCQ, MTX and AZA","3rd line: HCQ, IV-MP and AZA",1
+"3rd line: HCQ, IV-MP, MTX",4th line: HCQ and AZA,1
+"3rd line: HCQ, IV-MP, MTX",4th line: HCQ and AZA,1
+"3rd line: HCQ, IV-MP, MTX",4th line: HCQ and AZA,1
+"3rd line: HCQ, IV-MP, MTX",4th line: HCQ and AZA,1
+"3rd line: HCQ, IV-MP, MTX",4th line: HCQ and AZA,1
+"3rd line: HCQ, IV-MP, MTX",4th line: HCQ and AZA,1
+"3rd line: HCQ, IV-MP, MTX",4th line: HCQ and AZA,1
+"3rd line: HCQ, IV-MP, MTX",4th line: HCQ and AZA,1
+"3rd line: HCQ, IV-MP, MTX",4th line: HCQ and AZA,1
+"3rd line: HCQ, IV-MP, MTX",4th line: HCQ and AZA,1
+3rd line: HCQ and CP,4th line: HCQ and MMF,1
+3rd line: HCQ and CP,4th line: HCQ and MMF,1
+3rd line: HCQ and CP,4th line: HCQ and MMF,1
+3rd line: HCQ and CP,4th line: HCQ and MMF,1
+3rd line: HCQ and CP,4th line: HCQ and MMF,1
+3rd line: HCQ and CP,4th line: HCQ and MMF,1
+3rd line: HCQ and CP,4th line: HCQ and MMF,1
+3rd line: HCQ and CP,4th line: HCQ and MMF,1
+3rd line: HCQ and CP,4th line: HCQ and MMF,1
+"3rd line: HCQ, AZA and Belimumab","4th line: HCQ, IV-MP, AZA and Belimumab",1
+"3rd line: HCQ, AZA and Belimumab","4th line: HCQ, IV-MP, AZA and Belimumab",1
+"3rd line: HCQ, AZA and Belimumab","4th line: HCQ, IV-MP, AZA and Belimumab",1
+"3rd line: HCQ, AZA and Belimumab","4th line: HCQ, IV-MP, AZA and Belimumab",1
+3rd line: HCQ and AZA,"4th line: HCQ, MTX, CP and Rituximab",1
+3rd line: HCQ and AZA,"4th line: HCQ, MTX, CP and Rituximab",1
+3rd line: HCQ and AZA,"4th line: HCQ, MTX, CP and Rituximab",1
+3rd line: HCQ and AZA,"4th line: HCQ, MTX, CP and Rituximab",1
+3rd line: HCQ and AZA,"4th line: HCQ, MTX, CP and Rituximab",1
+3rd line: HCQ and AZA,"4th line: HCQ, MTX, CP and Rituximab",1
+3rd line: HCQ and AZA,"4th line: HCQ, MTX, CP and Rituximab",1
+"3rd line: HCQ, IV-MP and Belimumab",4th line: HCQ and Dapsone,1
+"3rd line: HCQ, IV-MP and Belimumab",4th line: HCQ and Dapsone,1
+"3rd line: HCQ, IV-MP and Belimumab",4th line: HCQ and Dapsone,1
+"3rd line: HCQ, IV-MP and Belimumab",4th line: HCQ and Dapsone,1
+"3rd line: HCQ, IV-MP and Belimumab",4th line: HCQ and Dapsone,1
+"3rd line: HCQ, AZA and Cyclosporine","4th line: HCQ, AZA and Aspirin",1
+"3rd line: HCQ, AZA and Cyclosporine","4th line: HCQ, AZA and Aspirin",1
+"3rd line: HCQ, AZA and Cyclosporine","4th line: HCQ, AZA and Aspirin",1
+"3rd line: HCQ, AZA and Cyclosporine","4th line: HCQ, AZA and Aspirin",1
+"3rd line: HCQ, AZA and Cyclosporine","4th line: HCQ, AZA and Aspirin",1
+"3rd line: HCQ, AZA and Cyclosporine","4th line: HCQ, AZA and Aspirin",1
+"3rd line: HCQ, AZA and Cyclosporine","4th line: HCQ, AZA and Aspirin",1
+"3rd line: HCQ, AZA and Cyclosporine","4th line: HCQ, AZA and Aspirin",1
+4th line: HCQ and AZA,"5th line: HCQ, MTX and NOAC",1
+4th line: HCQ and AZA,"5th line: HCQ, MTX and NOAC",1
+4th line: HCQ and AZA,"5th line: HCQ, MTX and NOAC",1
+4th line: HCQ and AZA,"5th line: HCQ, MTX and NOAC",1
+4th line: HCQ and AZA,"5th line: HCQ, MTX and NOAC",1
+4th line: HCQ and Dapsone,5th line: HCQ and MTX,1
+4th line: HCQ and Dapsone,5th line: HCQ and MTX,1
+4th line: HCQ and Dapsone,5th line: HCQ and MTX,1
+"4th line: HCQ, AZA and Aspirin","5th line: HCQ, IV-MP, AZA, Belimumab and Aspirin",1
+"4th line: HCQ, AZA and Aspirin","5th line: HCQ, IV-MP, AZA, Belimumab and Aspirin",1
+"4th line: HCQ, AZA and Aspirin","5th line: HCQ, IV-MP, AZA, Belimumab and Aspirin",1
+"4th line: HCQ, AZA and Aspirin","5th line: HCQ, IV-MP, AZA, Belimumab and Aspirin",1
+"4th line: HCQ, AZA and Aspirin","5th line: HCQ, IV-MP, AZA, Belimumab and Aspirin",1
+"4th line: HCQ, AZA and Aspirin","5th line: HCQ, IV-MP, AZA, Belimumab and Aspirin",1
+"4th line: HCQ, AZA and Aspirin","5th line: HCQ, IV-MP, AZA, Belimumab and Aspirin",1
+5th line: HCQ and MTX,"6th line: HCQ, IV-MP, MTX and Belimumab",1
+5th line: HCQ and MTX,"6th line: HCQ, IV-MP, MTX and Belimumab",1
+5th line: HCQ and MTX,"6th line: HCQ, IV-MP, MTX and Belimumab",1
+5th line: HCQ and MTX,"6th line: HCQ, IV-MP, MTX and Belimumab",1
+5th line: HCQ and MTX,"6th line: HCQ, IV-MP, MTX and Belimumab",1
+5th line: HCQ and MTX,"6th line: HCQ, IV-MP, MTX and Belimumab",1
+5th line: HCQ and MTX,"6th line: HCQ, IV-MP, MTX and Belimumab",1
+5th line: HCQ and MTX,"6th line: HCQ, IV-MP, MTX and Belimumab",1
+5th line: HCQ and MTX,"6th line: HCQ, IV-MP, MTX and Belimumab",1
